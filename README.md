@@ -1,1 +1,3 @@
 # Responsive-Portfolio
+
+This assignment was more challenging than I originally thought it would be. Simply attaching the same media queries to all the pages didn't work (I still have three CSS, one for each page, which might be part of what's making this so complicated). I had to go in and attempt to work on specific classes and IDs, and some of the time I couldn't figure out why exactly things were not responding (ie: the box would shrink, but the grid-items within it would no, no matter what I tried to do with them in the media query). Ultimately, I could only really get the the wrapper and boxes to adjust, and I'm going to have to put in more time beyond this particular project to figure out how to better utilize the media queries in the future. 
